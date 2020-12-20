@@ -10,7 +10,7 @@ Some Take-Aways:
 ------------------------------------------------
 It is always important to first ask what type of sampling mechanism was used to generate the data set that is presently under consideration. Then, if non-probability sampling methods were used, careful analyses of how representative that sample is with respect to the target population of interest are necessary before proceeding. 
 
-*Standard Deviation of Sampling Distribution of the Proportion*
+**Standard Deviation of Sampling Distribution of the Proportion**
 The standard deviation of sampling distribution of the proportion, P, is closely related to the binomial distribution. It’s a special case of a sampling distribution.
 
 A sampling distribution is where you take a population (N), and find a statistic from that population. The “standard deviation of the sampling distribution of the proportion” means that in this case, you would calculate the standard deviation. This is repeated for all possible samples from the population.
