@@ -1,4 +1,5 @@
 Statistics with Python (3 Course Specialization)
+------------------------------------------------
 
 About this Specialization
 
